@@ -1,2 +1,2 @@
 # Algos
-Practise algos
+Practise algos 
