@@ -44,7 +44,6 @@ console.log(diffTypes(ar));
 
 
 
-
 // Time to combine all the efforts made in starter and array.
 // Complete the info function that takes in an array
 // and returns information about the array
