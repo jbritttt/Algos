@@ -32,7 +32,7 @@ function diffTypes(arr) {
 
 const ar = [
   1,
-  "str",
+  "str", 
   false,
   { name: "Romeo", age: 77 },
   ["a", "e", "i", "o", "u"],
